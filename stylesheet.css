@@ -1,0 +1,21 @@
+.heading {
+	padding: 60px;
+    font-size: 20px;
+    text-align: center;
+    background: blue;
+
+}
+.listclasses {
+	padding: 10px;
+    font-size: 15px;
+    text-align: left;
+    background: purple;
+
+}
+.soccer {
+	padding: 5px;
+    font-size: 30px;
+    text-align: left;
+    background: lightblue;
+
+}
